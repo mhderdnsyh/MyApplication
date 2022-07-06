@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome">Selamat Datang di TopApp</string>
+    <string name="silahkan">Silahkan login untuk memakai aplikasi</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="judul">Menghitung Volume Balok</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="hitung">HITUNG</string>
+    <string name="login">Login</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="create_a_new_account">Create a New Account?</string>
+</resources>
